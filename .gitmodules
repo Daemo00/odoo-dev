@@ -1,0 +1,28 @@
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = git@github.com:OCA/account-reconcile.git
+	branch = 16.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = git@github.com:OCA/bank-statement-import.git
+	branch = 16.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 16.0
+[submodule "odoo"]
+	path = odoo
+	url = git@github.com:odoo/odoo.git
+	branch = 16.0
+[submodule "odoo-modules"]
+	path = odoo-modules
+	url = git@github.com:Daemo00/odoo-modules.git
+	branch = 16.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 16.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 16.0

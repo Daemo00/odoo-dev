@@ -1,0 +1,14 @@
+[options]
+addons_path = odoo/odoo/addons,
+    odoo/addons,
+    account-reconcile,
+    bank-statement-import,
+    delivery-carrier,
+    odoo-modules,
+    partner-contact,
+    web,
+# ykam-3wsj-wb8n
+admin_passwd = $pbkdf2-sha512$25000$ek.JEUKoVeq99x6jNIbQmg$fC9rSSzyr30RfTJyCBqEhgq.2uj0trMmJSt4XvtNTF0tuYOZK88QQ5NzgVka/C891sfb2F9YN44bO4aWQsML.A
+db_password = odoo
+db_user = odoo
+limit_time_real = 999999
